@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a premium AI-driven creative studio portfolio offering cinematic videos, presentations, and digital content to elevate brands and startups.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
